@@ -1,5 +1,6 @@
 
 // Default Sorting (Lexicographic - for strings):
+//sorting in javascript
 const fruits =["apple","banana","orange","mango"]
 fruits.sort()
 
